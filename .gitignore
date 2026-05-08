@@ -1,1 +1,22 @@
-/node_modules
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment
+.env
+.env.local
+
+# Build
+dist/
+build/
+.cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
