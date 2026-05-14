@@ -93,9 +93,3 @@ MONGODB_URI=your_mongodb_connection_string
 
 4. **Access the App**
    The frontend will be running at `http://localhost:5173/` and the backend at `http://localhost:5000/`.
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## 📄 License
-This project is licensed under the ISC License.
